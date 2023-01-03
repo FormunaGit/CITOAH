@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(38, 38, 38);
+    color: bisque;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.gerbert {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.flamey {
+  display: block;
+  margin-left: 35%;
+  margin-right: auto;
+  width: 10%;
+}
